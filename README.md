@@ -3,21 +3,20 @@ The project aims to train the autontefication of the user
 
 ## Project start
 * Для запуска:
-`npm i`
+`npm i` и
 `nodemon index.js`
-* Cоздать базу sql, для этого можно открыть файлы queries.sql и добавить столбец solution-queries.sql
-* Для аутонификации через google нужно в профиле google создать проект и оттуда добавить в файл GOOGLE_CLIENT_ID и GOOGLE_CLIENT_SECRET
+* Cоздать базу sql, для этого можно открыть файлы queries.sql, затем добавить столбец solution-queries.sql
+* Для аутонтификации через google нужно в профиле google создать проект. Оттуда добавить в файл GOOGLE_CLIENT_ID и GOOGLE_CLIENT_SECRET
 * Создать файл расширения и добавить:
-<h4>
-<h4>GOOGLE_CLIENT_ID="from gmail google"<h4>
-<h4>GOOGLE_CLIENT_SECRET="from gmail google"<h4>
-<h4>SESSION_SECRET="text"<h4>
-PG_USER="user from sql"
-PG_HOST="host from sql"
-PG_DATABASE="name from sql"
-PG_PASSWORD="yours password"
-PG_PORT="yours port"
-* __
+<h6>GOOGLE_CLIENT_ID="from gmail google"<h6>
+<h6>GOOGLE_CLIENT_SECRET="from gmail google"<h6>
+<h6>SESSION_SECRET="text"<h6>
+<h6>PG_USER="user from sql"<h6>
+<h6>PG_HOST="host from sql"<h6>
+<h6>PG_DATABASE="name from sql"<h6>
+<h6>PG_PASSWORD="yours password"<h6>
+<h6>PG_PORT="yours port"<h6>
+
 
 ## Полезные ссылки
 * Про криптография и хеширования [cryptii](https://cryptii.com/pipes/caesar-cipher) и [encode](https://encode-decode.com/aes256-encrypt-online/)
