@@ -18,7 +18,7 @@ The project aims to train the autontefication of the user
 <h6>PG_PORT="yours port"<h6>
 
 
-## Полезные ссылки
+## Useful links
 * Про криптография и хеширования [cryptii](https://cryptii.com/pipes/caesar-cipher) и [encode](https://encode-decode.com/aes256-encrypt-online/)
 * Проверка утечки данных по почте [haveibeenpwned](https://haveibeenpwned.com/)
 * Про популярные пароли [wikipedia](https://en.wikipedia.org/wiki/List_of_the_most_common_passwords)
