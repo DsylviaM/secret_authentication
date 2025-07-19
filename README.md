@@ -6,7 +6,7 @@ The project aims to train the autontefication of the user
 `npm i` и
 `nodemon index.js`
 * Cоздать базу sql, для этого можно открыть файлы queries.sql, затем добавить столбец solution-queries.sql
-* Для аутонтификации через google нужно в профиле google создать проект. Оттуда добавить в файл GOOGLE_CLIENT_ID и GOOGLE_CLIENT_SECRET
+* Для аутентификации через google нужно в профиле google создать проект. Оттуда добавить в файл GOOGLE_CLIENT_ID и GOOGLE_CLIENT_SECRET
 * Создать файл расширения и добавить:
 <h6>GOOGLE_CLIENT_ID="from gmail google"<h6>
 <h6>GOOGLE_CLIENT_SECRET="from gmail google"<h6>
